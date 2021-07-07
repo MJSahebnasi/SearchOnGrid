@@ -1,2 +1,3 @@
 # SearchOnGrid
-AI Course Exercise 
+## AI Course Exercise 
+A*, DFS, BFS
