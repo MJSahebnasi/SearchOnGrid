@@ -1,3 +1,4 @@
 # SearchOnGrid
 AI Course Exercise 
-**A*, DFS, BFS**
+
+<b>A*, DFS, BFS</b>
